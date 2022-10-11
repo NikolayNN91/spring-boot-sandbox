@@ -1,1 +1,1 @@
-# spring-boot-sandbox
+# spring-boot-com.sandbox
